@@ -1,5 +1,6 @@
 # Pygmalion
 
+
 Pygmalion is a lighweight and flexible Minecraft modification that introduces controllable bots into Minecraft.
 
 Spawn and manage player-like bots
@@ -8,6 +9,16 @@ Basic AI behaviors (movement, following, interaction)
 Combat and interaction support
 Useful for testing farms, redstone systems, or multiplayer scenarios
 
+____________________________
+
+Requirements:
+-Minecraft Java Edition (v1.21.11)
+
+-Fabric Loader
+
+-min. 4 GB RAM, 8 or 16 recommendet
+
+_____________________________
 
 Install Fabric Loader for Minecraft 1.21.11
 
