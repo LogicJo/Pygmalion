@@ -10,6 +10,9 @@ Useful for testing farms, redstone systems, or multiplayer scenarios
 
 
 Install Fabric Loader for Minecraft 1.21.11
+
 Download and install the Fabric API
+
 Place the mod pygmalion.jar file into your mods/ folder
+
 Launch the game
