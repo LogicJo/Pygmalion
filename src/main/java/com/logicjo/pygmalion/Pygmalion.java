@@ -11,6 +11,8 @@ import net.minecraft.network.chat.Component;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.awt.*;
+
 public class Pygmalion implements ModInitializer {
 	public static final String MOD_ID = "pygmalion";
 
@@ -37,7 +39,9 @@ public class Pygmalion implements ModInitializer {
                                             context)))));
         });
 
-		LOGGER.info("Hello world!");
+		LOGGER.info("Pygmalion loadet");
+        LOGGER.info("Open source project by LogicJo /Shadow_Shards");
+
 	}
 
     private static int executeCommon(int value1, int value2, CommandContext<CommandSourceStack> context) {
