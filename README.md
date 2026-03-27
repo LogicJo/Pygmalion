@@ -1,4 +1,4 @@
-#Pygmalion
+# Pygmalion
 
 Pygmalion is a lighweight and flexible Minecraft modification that introduces controllable bots into Minecraft.
 
