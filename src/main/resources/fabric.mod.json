@@ -3,9 +3,9 @@
 	"id": "pygmalion",
 	"version": "${version}",
 	"name": "Pygmalion",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "TPygmalion is a lighweight and flexible Minecraft modification that introduces controllable bots into Minecraft.",
 	"authors": [
-		"Me!"
+		"LogicJo / Shadow_Shardx"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
