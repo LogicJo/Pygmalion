@@ -10,6 +10,7 @@ import net.minecraft.commands.Commands;
 import net.minecraft.network.chat.Component;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.spongepowered.asm.mixin.Mixin;
 
 import java.awt.*;
 
@@ -38,7 +39,7 @@ public class Pygmalion implements ModInitializer {
                                             IntegerArgumentType.getInteger(context, "value_two"),
                                             context)))));
         });
-
+        //Pygmalion Log information
 		LOGGER.info("Pygmalion loadet");
         LOGGER.info("Open source project by LogicJo /Shadow_Shards");
 
@@ -48,4 +49,5 @@ public class Pygmalion implements ModInitializer {
         context.getSource().sendSuccess(() -> Component.literal("Called /pygmalion with value 1 = %s and value 2 = %s".formatted(value1, value2)), false);
         return 1;
     }
+
 }
