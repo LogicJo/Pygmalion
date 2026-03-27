@@ -16,7 +16,7 @@ Requirements:
 
 -Fabric Loader
 
--min. 4 GB RAM, 8 or 16 recommendet
+-min. 4 GB RAM, 8 or 16 recommended
 
 _____________________________
 
